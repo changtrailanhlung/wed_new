@@ -1,0 +1,33 @@
+/*
+Theme Name: begin.vn fs-child
+Description: This is a child theme for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.0
+*/
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+
+
+@media only screen and (max-width: 48em) {
+/*************** ADD MOBILE ONLY CSS HERE  ***************/
+
+
+}
+.tm-folding-cube .tm-cube {
+  display:none!important;
+}
+.tm-folding-cube {
+  width: 400px;
+  height: 100px;
+  top: 50%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -200px;
+  position: relative;
+  background:url('https://thoitrang.begin.vn/wp-content/uploads/loader.gif') no-repeat center center;
+  background-size:contain;
+  -webkit-transform: rotateZ(0deg) !important;
+  -ms-transform: rotate(0deg) !important;
+  transform: rotateZ(0deg) !important;
+}

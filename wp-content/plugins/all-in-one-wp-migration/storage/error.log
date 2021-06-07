@@ -1,0 +1,3 @@
+Sep 26 2018 02:18:25
+{"type":8192,"message":"Methods with the same name as their class will not be constructors in a future version of PHP; Facebook_Like_Widget has a deprecated constructor","file":"\/home\/lagithe.info\/public_html\/wp-content\/themes\/magazine\/functions\/widget-fblikebox.php","line":16}
+
